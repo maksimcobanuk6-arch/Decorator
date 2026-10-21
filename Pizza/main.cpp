@@ -10,7 +10,7 @@ void printPizza(const Pizza& p) {
 int main() {
     SetConsoleCP(CP_UTF8);
 	SetConsoleOutputCP(CP_UTF8);
-    // Проста піца
+    // Проста піцаа
     unique_ptr<Pizza> p1 = make_unique<BasePizza>();
     printPizza(*p1);
     // Сирна з ковбасою
