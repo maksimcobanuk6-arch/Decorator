@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pizza/Pizza.vcxproj" Id="66a9f2d1-0191-4cab-b61d-e14368906908" />
+</Solution>
